@@ -1,0 +1,2 @@
+# Options to pass to chromium-browser
+CHROMIUM_FLAGS="--use-gl=egl --ignore-gpu-blocklist --enable-accelerated-video-decode --enable-zero-copy --enable-gpu-rasterization --enable-oop-rasterization --enable-pinch --flag-switches-begin --flag-switches-end --origin-trial-disabled-features=SecurePaymentConfirmation" 
